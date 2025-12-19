@@ -1,0 +1,5 @@
+{
+  "name": "Email Guardian AI",
+  "description": "A sophisticated email analysis and threat detection tool powered by Gemini 3 Pro. It identifies phishing attempts, extracts key insights, summarizes content, and assesses sender intent with high precision.",
+  "requestFramePermissions": []
+}
